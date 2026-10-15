@@ -44,7 +44,7 @@ require (
 	github.com/kata-containers/kata-containers/src/runtime v0.0.0-20250828155603-754f07cff239
 	github.com/moby/sys/capability v0.4.0
 	github.com/moby/sys/mountinfo v0.7.2
-	github.com/moby/sys/user v0.4.0
+	github.com/moby/sys/user v0.4.1
 	github.com/moby/sys/userns v0.1.0
 	github.com/modelpack/model-spec v0.0.7
 	github.com/onsi/ginkgo/v2 v2.25.3
