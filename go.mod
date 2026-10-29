@@ -32,7 +32,7 @@ require (
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/docker/go-units v0.5.0
 	github.com/fsnotify/fsnotify v1.9.0
-	github.com/go-chi/chi/v5 v5.2.3
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-logr/logr v1.4.3
 	github.com/godbus/dbus/v5 v5.1.1-0.20230522191255-76236955d466
 	github.com/google/go-cmp v0.7.0
